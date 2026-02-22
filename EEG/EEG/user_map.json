@@ -1,0 +1,48 @@
+{
+    "user_map": {
+        "Case_01_ExG.csv": {
+            "name": "Case_01",
+            "id": 21
+        },
+        "Case_02_ExG.csv": {
+            "name": "Case_02",
+            "id": 22
+        },
+        "Case_03_ExG.csv": {
+            "name": "Case_03",
+            "id": 27
+        },
+        "Case_04_ExG.csv": {
+            "name": "Case_04",
+            "id": 28
+        },
+        "Case_05_ExG.csv": {
+            "name": "Case_05",
+            "id": 31
+        },
+        "Case_06_ExG.csv": {
+            "name": "Case_06",
+            "id": 32
+        },
+        "Case_07_ExG.csv": {
+            "name": "Case_07",
+            "id": 42
+        },
+        "Case_08_ExG.csv": {
+            "name": "Case_08",
+            "id": 43
+        },
+        "Case_09_ExG.csv": {
+            "name": "Case_09",
+            "id": 44
+        },
+        "Case_10_ExG.csv": {
+            "name": "Case_10",
+            "id": 45
+        },
+        "Case_11_ExG.csv": {
+            "name": "Case_11",
+            "id":46
+        }
+    }
+}

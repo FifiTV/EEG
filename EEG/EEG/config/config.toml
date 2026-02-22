@@ -1,0 +1,24 @@
+# config.toml
+
+RANDOM_SEED = 97
+# For time window analysis, in seconds
+# DURATION = 25
+DURATION = 100
+
+SFREQ = 250.0
+L_FREQ = 1.0
+H_FREQ = 40.0
+
+SEGMENT_DEF = [
+    ["sw_SB", "sw_FB", "Brainrot"],
+    ["sw_SS", "sw_FS", "Smart"],
+    ["sw_SBS", "sw_FBS", "Brainrot Scroll"],
+    ["sw_SSS", "sw_FSS", "Smart Scroll"]
+]
+
+[BANDS]
+Delta = [1, 4]
+Theta = [4, 8]
+Alpha = [8, 12]
+Beta = [13, 30]
+Gamma = [30, 45]
